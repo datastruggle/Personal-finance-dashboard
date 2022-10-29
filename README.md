@@ -13,7 +13,7 @@ A tree map is used to get the yearly, quarterly and monthly expenses. From this 
 Two bar charts are drawn to find out the top N people to whom I paid and the top N people who paid to me.
 
 
-A line chart is drawn for average monthly expenses/withdrawal. From this line chart we found out that for the year 2022 average monthly expense was highest for July. In the year 2021 the highest average expense was for the month of January, similar expemses are observed in the month of May 2021 as well. For both the years commbined the highest average expense was for July. 
+A line chart is drawn for average monthly expenses/withdrawal. From this line chart we found out that for the year 2022 average monthly expense was highest for July. In the year 2021 the highest average expense was for the month of January, similar expenses are observed in the month of May 2021 as well. For both the years commbined the highest average expense was for July. 
 
 
 Another bar chart is drawn to track the months with highest total expense. 
