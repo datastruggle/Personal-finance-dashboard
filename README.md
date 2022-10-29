@@ -7,7 +7,7 @@ Tableau
 A scatter diagram is plotted between average monthly withdrawal and deposits to track the variation between the two variables. From this scatter diagram we saw that the month of July came out as an outlier where the average monthly deposit is around Rs 2.84k and the average monthly withdrawal is around Rs 4.06k
 
 
-A tree map is used to get the yearly, quarterly and monthly expenses. From this tree map we found that the expenses for the both years is almost same. But we go by the values of the quarter we saw in 2022 Q3 has the highest expense of around 233.72k and in 2021 Q4 has the highest expense of around Rs 200.16k. Q3 saw a major increase in expense from 2021 which was around Rs 127.64k.
+A tree map is used to get the yearly, quarterly and monthly expenses. From this tree map we found that the expenses for the both years is almost same. But if we go by the values of the quarter we saw in 2022 Q3 has the highest expense of around 233.72k and in 2021 Q4 has the highest expense of around Rs 200.16k. Q3 saw a major increase in expense from 2021 which was around Rs 127.64k.
 
 
 Two bar charts are drawn to find out the top N people to whom I paid and the top N people who paid to me.
